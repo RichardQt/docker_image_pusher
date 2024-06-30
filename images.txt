@@ -4,3 +4,4 @@ python:alpine3.19
 neccen/deeplx-local
 lobehub/lobe-chat
 yidadaa/chatgpt-next-web
+deanxv/coze-discord-proxy:latest
