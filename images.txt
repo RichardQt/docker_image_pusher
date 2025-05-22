@@ -2,3 +2,4 @@ yidadaa/chatgpt-next-web:latest
 neccen/deeplx-local:latest
 lvzo/deeplx-pro:latest
 xy2yp/dangbei2api:latest
+certbot/certbot:latest
